@@ -11,7 +11,6 @@ while True:
     else:
         break
 
-arquivoLegenda = open(arquivo, 'r')
 textoParaConverter = arquivoLegenda.read()
 arquivoLegenda.close()
 
